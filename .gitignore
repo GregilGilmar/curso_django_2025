@@ -128,3 +128,4 @@ gunicorn-error-log
 db.sqlite3
 db copy.sqlite3
 static/
+1.2.40.1.13.2.11242367.2025.1732443272470.47141.2.0.zip
